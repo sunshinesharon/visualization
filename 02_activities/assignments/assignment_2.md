@@ -10,24 +10,24 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+     Visualization I'm Reviewing - https://public.tableau.com/app/profile/louisyu/viz/RedHeartsRedHeartsThatswhatImon/Soundwave_Chart
 
+     Why is this a Good Data Visualization?
+     
+     > Innovative Use of Soundwave Chart: The soundwave chart creatively represents each song's virality, offering a unique and engaging perspective on the data.​
+     
+     > Temporal Ordering: Songs are arranged by their release dates, allowing viewers to observe trends and patterns in music virality over time.
+     
+     > Clear Metric Definition: The visualization introduces a 'virality score' to quantify each song's impact, providing a clear and consistent metric for comparison.
 
-
-
-
-
-
-      ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-
-
-
-
-
-
+      
+      > Make it Interactive: Adding tooltips or clickable elements would make it easier to explore details about each song.
+      
+      > Add a Legend: A key explaining the colors and wave patterns would help people understand the chart faster. 
+      
+      > More Context: Showing factors like genre or artist popularity could give better insights into why some songs go viral.
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
@@ -59,9 +59,9 @@
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `assignment-2`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [x] Create a branch called `assignment-2`.
+- [x] Ensure that the repository is public.
+- [x] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [x] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
