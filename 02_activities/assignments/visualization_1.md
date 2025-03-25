@@ -22,7 +22,7 @@ I included a complete, well-commented Python script (`python_code.py`) that can 
 - Labelled all axes and ensured the chart can be exported as a high-resolution PNG.
 
 ### 7. Who are the individuals and communities who might be impacted by your visualization?
-Children, youth, and their families—especially those in underserved areas—may benefit from improved service planning based on insights from this data.
+Children, youth, and their families—especially those in underserved areas may benefit from improved service planning based on insights from this data.
 
 ### 8. How did you choose which features of your dataset to include or exclude?
 I focused on the `MailingAddress1` field as a proxy for location and filtered for the top 15 most frequent addresses to keep the chart clear and actionable.

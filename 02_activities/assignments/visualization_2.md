@@ -35,7 +35,8 @@ The message I want to convey is that **certain age groups—particularly teens a
 
 
 ### 5. How did you ensure that your data visualizations are reproducible?
-The process steps are included in a `tableau_steps.txt` file in this repository. The dataset (`.xlsx`) is provided, and the chart is publicly viewable via Tableau Public at the link below:
+The process steps are included in a `tableau_steps.txt` file in this repository. I downloaded the dataset from here - https://data.ontario.ca/dataset/5c829a81-9f56-4404-845d-3ea03e457e97/resource/5763c1f5-3228-4621-affd-44663b609f29/download/khp_2019_moh_export_open_data_updated.xlsx. 
+The dataset (`.xlsx`) is provided within the 'assignments' folder, and the chart is publicly viewable via Tableau Public at the link below:
 
 👉 [View Tableau Visualization](https://public.tableau.com/app/profile/sharon.jacob5156/viz/YouthMentalHealthServicesbyAge/YouthMentalHealthServicesbyAgeOntario?publish=yes)
 
