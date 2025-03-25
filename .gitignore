@@ -1,2 +1,12 @@
 .DS_Store
 .vscode/
+venv/
+.env/
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.csv
+*.xlsx
+.DS_Store
+Thumbs.db
